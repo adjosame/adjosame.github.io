@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://adjosame.github.io/adjosame.txt.gz
+Sitemap: https://adjosame.github.io/app/adjosame.txt.gz
+Sitemap: https://adjosame.github.io/assets/adjosame.txt.gz
+Sitemap: https://adjosame.github.io/css/adjosame.txt.gz
+Sitemap: https://adjosame.github.io/includes/adjosame.txt.gz
+Sitemap: https://adjosame.github.io/item/adjosame.txt.gz
+Sitemap: https://adjosame.github.io/src/adjosame.txt.gz
